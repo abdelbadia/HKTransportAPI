@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HKTransportAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+78afedbed890f306f5bdb213c4b9576219f3acde")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5f49104586138ee30fe9cf5129bfbb184238716e")]
 [assembly: System.Reflection.AssemblyProductAttribute("HKTransportAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HKTransportAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

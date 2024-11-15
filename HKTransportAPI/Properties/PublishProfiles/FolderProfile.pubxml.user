@@ -5,7 +5,7 @@ https://go.microsoft.com/fwlink/?LinkID=208121.
 <Project>
   <PropertyGroup>
     <_PublishTargetUrl>C:\Devs_perso\HKTransportAPI\HKTransportAPI\bin\Release\net8.0\publish\</_PublishTargetUrl>
-    <History>True|2024-11-15T10:29:09.3471648Z;</History>
+    <History>True|2024-11-15T12:11:05.8709903Z;True|2024-11-15T11:29:09.3471648+01:00;</History>
     <LastFailureDetails />
   </PropertyGroup>
 </Project>
