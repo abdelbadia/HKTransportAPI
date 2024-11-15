@@ -20,7 +20,7 @@ builder.Services.AddSwaggerGen(c =>
 builder.Services.AddCors(options =>
 {
     options.AddPolicy("AllowReactApp",
-        policy => policy.WithOrigins("http://localhost:3000")
+        policy => policy.WithOrigins("http://localhost:3000", "https://hk-transport-web-a0c4ghcbb5epdbcn.canadacentral-01.azurewebsites.net")
                         .AllowAnyMethod()
                         .AllowAnyHeader());
 });
