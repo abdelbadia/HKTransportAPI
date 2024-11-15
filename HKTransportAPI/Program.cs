@@ -28,6 +28,9 @@ builder.Services.AddCors(options =>
 builder.Services.AddControllers();
 var app = builder.Build();
 
+// Redirection vers la page par défaut
+app.MapGet("/", () => Results.Redirect("/api/home"));
+
 // Utilise la politique CORS
 app.UseCors("AllowReactApp");
 
