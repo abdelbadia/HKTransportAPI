@@ -145,3 +145,4 @@ C:\Devs_perso\HKTransportAPI\HKTransportAPI\obj\Debug\net8.0\refint\HKTransportA
 C:\Devs_perso\HKTransportAPI\HKTransportAPI\obj\Debug\net8.0\HKTransportAPI.pdb
 C:\Devs_perso\HKTransportAPI\HKTransportAPI\obj\Debug\net8.0\HKTransportAPI.genruntimeconfig.cache
 C:\Devs_perso\HKTransportAPI\HKTransportAPI\obj\Debug\net8.0\ref\HKTransportAPI.dll
+C:\Devs_perso\HKTransportAPI\HKTransportAPI\obj\Debug\net8.0\HKTransportAPI.sourcelink.json
